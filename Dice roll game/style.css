@@ -1,0 +1,44 @@
+body {
+    background-color: #393E46;
+}
+
+.playerwins{
+    color: #4ECCA3;
+    text-align: center;
+    font-size: 5rem;
+    font-family:'Lobster', cursive;
+    
+}
+.clickme{
+    background-color: #4ECCA3;
+    width: 150px;
+    height: 40px;
+    color: darkred;
+    font-weight: 900;
+    font-size: 1rem;
+    border: 3px solid;
+    border-radius: 10px;
+    letter-spacing: 2px;
+}
+.container{
+    text-align: center;
+}
+.container1{
+    color: #4ECCA3;
+    display: inline-block;
+    font-family: 'Indie Flower', cursive;
+    font-size: 1.5rem;
+    margin-right: 170px;
+}
+.container2{
+    color: #4ECCA3;
+    display: inline-block;
+    font-family: 'Indie Flower', cursive;
+    font-size: 1.5rem;
+    
+}
+.diceimg{
+    width: 180px;
+    margin-right: 40px;
+    margin-left: 40px;
+}
